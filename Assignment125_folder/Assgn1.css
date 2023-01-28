@@ -1,0 +1,38 @@
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(189, 95, 95);
+    color: rgb(12, 1, 1);
+    text-align: center;
+  }
+
+  table {
+    margin-top: 10px;
+  border: 1px solid black;
+ text-align: center;
+width: 100%;
+left: 0;
+
+  }
+
+  td {
+    text-align: center;
+    border: 1px solid rgb(7, 6, 6);
+    background-color:bisque;
+    width: 100px;
+  }
+
+  h1 {
+    color:brown;
+  }
+
+  body {
+    
+    text-align: center;
+    width: 80%;
+    background-color:darkkhaki;
+  }
+  img {
+    width: 80%;
+  }
