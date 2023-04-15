@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "An exceptional wrist watch made for men of class.",
+      "price": 400.00,
+      "image": "Images/product 1.jpg",
+      "details": "product1-details.json"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "This speaks class and it is versatile.",
+      "price": 600.00,
+      "image": "Images/product 2.jpg",
+      "details": "product2-details.json"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "This is for high quality taste and style gentlemen with class.",
+      "price": 700.00,
+      "image": "Images/product 3.jpg",
+      "details": null
+    },
+    
+        {
+          "id": 4,
+          "title": "Product 4",
+          "description": "Crafted with smatch prove materials and thick glass.",
+          "price": 800.00,
+          "image": "Images/product 4.jpg",
+          "details":  null
+        },
+        {
+          "id": 5,
+          "title": "Product 5",
+          "description": "This speaks class and quality .It is made with Oyster case.",
+          "price": 1000.00,
+          "image": "Images/product 5.jpg",
+          "details": "product5-details.json"
+        },
+        {
+          "id": 6,
+          "title": "Product 6",
+          "description": "This is the latest design with date magnification and triplock crown seat.",
+          "price": 1200.00,
+          "image": "Images/product 6.jpg",
+          "details": null
+        },
+        
+            {
+              "id": 7,
+              "title": "Product 7",
+              "description": "Unimaginable colour selection screen to suit your class and taste.",
+              "price": 1100.00,
+              "image": "Images/product 7.jpg",
+              "details":  null
+            },
+            {
+              "id": 8,
+              "title": "Product 8",
+              "description": "Talking about design and modern wrist watches design and versatility this got it all.",
+              "price": 2000.00,
+              "image": "Images/product 8.jpg",
+              "details": "product8-details.json"
+            }
+            
+          
+  ]

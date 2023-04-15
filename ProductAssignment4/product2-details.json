@@ -1,0 +1,7 @@
+{"id": 2,
+      "title": "Product 2",
+      "description": "This speaks class and it is versatile. It displays time with date magnification, reads foot steps per day and keeps record. This is going to be your buddie for years!",
+      "price": "$600.00",
+      "image": "Images/product 2.jpg",
+      "details": "product2-details.json"
+}
